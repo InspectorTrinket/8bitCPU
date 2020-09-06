@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name HM6264)(type Legacy)(uri C:/Users/Victor/Documents/8Bit_Computer/hm6264.lib)(options "")(descr ""))
+  (lib (name 74LS181)(type Legacy)(uri ${KIPRJMOD}/74LS181.lib)(options "")(descr ""))
+)
